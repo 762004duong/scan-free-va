@@ -1,0 +1,6 @@
+cost 300,000 vnd in average
+cost 150,000 vnd in average
+cost 500,000 vnd in average
+cost 1200,000 vnd in average
+cost 500,000 vnd in average
+cost 100,000 vnd in average

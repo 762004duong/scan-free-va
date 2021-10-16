@@ -1,0 +1,9 @@
+tensorflow
+pandas
+numpy
+opencv-python
+matplotlib
+Pyttsx3
+SpeechRecognition
+thefuzz
+PyAudio
